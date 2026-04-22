@@ -1,0 +1,38 @@
+[31820:11872:0419/195701.608:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31820:35660:0419/195701.863:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31820:11872:0419/195701.956:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5808:34528:0419/195706.317:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8994F720C340982CAE4084AD4FF3E628 will be ignored
+[31820:11872:0419/195710.973:ERROR:device_event_log_impl.cc(196)] [19:57:10.644] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36464:27196:0419/224100.718:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[31820:35660:0420/013231.851:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36464:17680:0420/013231.861:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[36464:27196:0420/013358.314:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[31820:11872:0420/021106.256:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
+[31820:11872:0420/021106.586:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021106.587:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1073807364
+[31820:11872:0420/021106.587:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[31820:11872:0420/021106.919:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021106.920:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021106.920:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[31820:11872:0420/021107.251:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021107.252:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021107.252:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[31820:11872:0420/021107.259:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021107.583:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021107.585:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 4 time(s)
+[31820:11872:0420/021107.587:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021107.593:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021107.593:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 5 time(s)
+[31820:11872:0420/021107.918:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021107.920:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021107.920:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 6 time(s)
+[31820:11872:0420/021108.251:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021108.252:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021108.252:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 7 time(s)
+[31820:11872:0420/021108.584:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021108.585:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021108.585:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 8 time(s)
+[31820:11872:0420/021108.592:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[31820:11872:0420/021108.917:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=-1073741205
+[31820:11872:0420/021108.917:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 9 time(s)
+[31820:11872:0420/021108.917:FATAL:gpu_data_manager_impl_private.cc(436)] GPU process isn't usable. Goodbye.
